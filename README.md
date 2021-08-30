@@ -14,7 +14,11 @@ co-initiated [aitopia](aitopia.world), a platform for engagement on the topics o
 
 [![aitopia website](static/aitopia.png)](https://aitopia.world)
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabergerx&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Some of my GitHub stats (motivating!)
+
+[![Mark's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabergerx&theme=tokyonight&&layout=compact)]()
+
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabergerx&count_private=true&show_icons=true&theme=tokyonight)]()
 
 ![Profile view badge](https://komarev.com/ghpvc/?username=mabergerx&color=03c6fc)
 
