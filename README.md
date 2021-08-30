@@ -4,6 +4,14 @@
 
 Hi, my name is Mark!
 
+### Elevator pitch
+
+- 📊 I am an Amsterdam based data scientist with interest in data engineering, visualizations and human-machine interaction
+- 💻🕵️ Currently I am developing tools that innovate data driven financial investigating at the [FIOD](https://en.wikipedia.org/wiki/Fiscal_Information_and_Investigation_Service)
+- 🥬 Trying to make my contribution to the sustainable future by talking about sustainable AI on [aitopia](aitopia.world)
+
+### Slightly longer
+
 I am a University of Amsterdam master's graduate, Data Scientist, & Data Engineer with interest in all things AI,
 intellligent and interactive systems, information retrieval and human-machine interaction.
 Also, [well designed data visualizations](https://projects.fivethirtyeight.com/2020-election-forecast/?cid=rrpromo) can
@@ -16,10 +24,18 @@ co-initiated [aitopia](aitopia.world), a platform for engagement on the topics o
 
 ### Some of my GitHub stats (motivating!)
 
-[![Mark's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabergerx&theme=tokyonight&&layout=compact)]()
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=mabergerx&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabergerx&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabergerx&count_private=true&show_icons=true&theme=tokyonight)]()
+As the infogrpahic above suggested, I love programming in ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python), where I use all kinds of libraries, but mostly in the machine learning / data science corner :)
+
+
+<hr>
 
 ![Profile view badge](https://komarev.com/ghpvc/?username=mabergerx&color=03c6fc)
 
+## Reach me at
+
 <a href="https://stackoverflow.com/users/3025242/mabergerx"><img src="https://stackoverflow.com/users/flair/3025242.png?theme=dark" width="208" height="58" alt="profile for mabergerx at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mabergerx at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<a href="https://linkedin.com/in/markberger-1" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-Mark Berger-blue?style=flat-square&logo=linkedin" /></a>
