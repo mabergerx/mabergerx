@@ -38,4 +38,13 @@ As the infogrpahic above suggested, I love programming in ![Python](https://img.
 <a href="https://stackoverflow.com/users/3025242/mabergerx"><img src="https://stackoverflow.com/users/flair/3025242.png?theme=dark" width="208" height="58" alt="profile for mabergerx at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mabergerx at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <a href="https://linkedin.com/in/markberger-1" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-Mark Berger-blue?style=flat-square&logo=linkedin" /></a>
+        <img src="https://img.shields.io/badge/-Mark Berger-blue?style=for-the-badge&logo=linkedin" /></a> 
+        
+<a href="https://berger-mark.medium.com/" alt="Medium">
+        <img src="https://img.shields.io/badge/-Mark Berger-03a57a?style=for-the-badge&logo=Medium&labelColor=000000" /></a>
+        
+<a href="https://instagram.com/berger.mark" alt="Instagram">
+        <img src="https://img.shields.io/badge/-@berger.mark-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        
+<a href="https://maberger.nl" alt="Website">
+        <img src="https://img.shields.io/badge/-maberger.nl-242424?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
