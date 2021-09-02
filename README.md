@@ -18,7 +18,7 @@ Also, [well designed data visualizations](https://projects.fivethirtyeight.com/2
 make me really happy and curious :)
 
 Lately I have also been interested and involved in the topics of responsible and sustainable AI. To be more proactive, I
-co-initiated [aitopia](aitopia.world), a platform for engagement on the topics of green, ethical and responsible AI!
+co-initiated [aitopia](https://aitopia.world), a platform for engagement on the topics of green, ethical and responsible AI!
 
 [![aitopia website](static/aitopia.png)](https://aitopia.world)
 
