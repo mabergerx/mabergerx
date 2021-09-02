@@ -8,7 +8,7 @@ Hi, my name is Mark!
 
 - 📊 I am an Amsterdam based data scientist with interest in data engineering, visualizations and human-machine interaction
 - 💻🕵️ Currently I am developing tools that innovate data driven financial investigating at the [FIOD](https://en.wikipedia.org/wiki/Fiscal_Information_and_Investigation_Service)
-- 🥬 Trying to make my contribution to the sustainable future by talking about sustainable AI on [aitopia](aitopia.world)
+- 🥬 Trying to make my contribution to the sustainable future by talking about sustainable AI on [aitopia](https://aitopia.world)
 
 ### Slightly longer
 
