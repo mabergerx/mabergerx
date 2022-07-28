@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my page 😁</h1>
 
-Hi, my name is Mark!
+Hi, my name is Mark! The picture above is taken by me in Krakow, Poland :)
 
 ### Elevator pitch
 
