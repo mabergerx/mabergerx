@@ -12,7 +12,7 @@ Hi, my name is Mark!
 
 ### Slightly longer
 
-I am a University of Amsterdam master's graduate, Data Scientist, & Data Engineer with interest in all things AI,
+I am a University of Amsterdam master's graduate and Machine Learning engineer with interest in all things AI,
 intellligent and interactive systems, information retrieval and human-machine interaction.
 Also, [well designed data visualizations](https://projects.fivethirtyeight.com/2020-election-forecast/?cid=rrpromo) can
 make me really happy and curious :)
