@@ -22,12 +22,6 @@ co-initiated [aitopia](https://aitopia.world), a platform for engagement on the 
 
 [![aitopia website](static/aitopia.png)](https://aitopia.world)
 
-### Some of my GitHub stats (motivating!)
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=mabergerx&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabergerx&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
-
-As the infographic above suggested, I love programming in ![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python), where I use all kinds of libraries, but mostly in the machine learning / data science corner :)
-
 
 <hr>
 
