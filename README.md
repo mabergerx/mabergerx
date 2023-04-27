@@ -17,10 +17,7 @@ intellligent and interactive systems, information retrieval and human-machine in
 Also, [well designed data visualizations](https://projects.fivethirtyeight.com/2020-election-forecast/?cid=rrpromo) can
 make me really happy and curious :)
 
-Lately I have also been interested and involved in the topics of responsible and sustainable AI. To be more proactive, I
-co-initiated [aitopia](https://aitopia.world), a platform for engagement on the topics of green, ethical and responsible AI!
-
-[![aitopia website](static/aitopia.png)](https://aitopia.world)
+Lately I have also been interested and involved in the topics of responsible and sustainable AI.
 
 
 <hr>
