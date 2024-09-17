@@ -8,7 +8,6 @@ Hi, my name is Mark! The picture above is taken by me near Krakow, Poland :)
 
 - 📊 I am an Amsterdam based data scientist / machine learning engineer with interest in information retrieval, search, visualizations and human-machine interaction
 - 💻🕵️ Currently I work as a machine learning engineer consultant at Smartworkz
-- 🥬 Trying to make my contribution to the sustainable future by talking about sustainable AI on [aitopia](https://aitopia.world)
 
 ### Slightly longer
 
